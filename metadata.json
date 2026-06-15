@@ -1,0 +1,6 @@
+{
+  "name": "CSBot - Chatbot Pelanggan Otomatis",
+  "description": "Platform chatbot otomatis untuk melayani dan menjawab pertanyaan pelanggan dengan cepat menggunakan Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
